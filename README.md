@@ -58,3 +58,10 @@ Developed as part of the SmartInternz Internship Program
 ![Screenshot 2025-06-26 221833](https://github.com/user-attachments/assets/24f6af0e-e32b-49b9-a32a-5fcfb7a71fd1)
 ![Screenshot 2025-06-26 222032](https://github.com/user-attachments/assets/8b8a6ed1-31c3-4134-9128-eaecdad7149b)
 ![Screenshot 2025-06-26 223525](https://github.com/user-attachments/assets/d472e029-e027-4692-aad8-fb9c03c8fe99)
+
+
+
+
+https://github.com/user-attachments/assets/5d454a53-1eee-4de1-a0e9-f1fb6facac0d
+
+
