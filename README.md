@@ -1,5 +1,5 @@
 # Asset-Management-Portal-Smart-Intenz
-ChatGPT said: Streamline asset tracking with our ServiceNow Asset Management Portal! Automate asset lifecycle, warranty alerts, and real-time reporting. Built with UI Actions, Scheduled Jobs, and Reports. Developed under SmartInternz Internship. Watch now to see efficient asset management in action!
+Streamline asset tracking with our ServiceNow Asset Management Portal! Automate asset lifecycle, warranty alerts, and real-time reporting. Built with UI Actions, Scheduled Jobs, and Reports. Developed under SmartInternz Internship. Watch now to see efficient asset management in action!
 🎯 Asset Management Portal | ServiceNow Project Demo | SmartInternz
 
 Welcome to our project showcase! In this video, we present the Asset Management Portal, a powerful solution developed on the ServiceNow platform to streamline the tracking, allocation, and maintenance of both physical and digital assets across an organization.
