@@ -41,7 +41,7 @@ Enables data-driven decisions with real-time insights
 📈 Perfect for organizations aiming to improve their IT asset tracking and resource utilization.
 
 🔗 Connect With Us:
-GitHub Repository: [Add Link]
-Live Demo: [Add Link]
+GitHub Repository: []
+Live Demo: [https://youtu.be/ygXHyhE8e0Y?si=FbGfBz5HiqrE73eY]
 Team ID: LTVIP2025TMID30344
 Developed as part of the SmartInternz Internship Program
